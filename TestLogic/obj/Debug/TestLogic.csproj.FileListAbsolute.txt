@@ -1,0 +1,5 @@
+c:\Users\Юлия\documents\visual studio 2015\Projects\TestApp\TestLogic\bin\Debug\TestLogic.dll
+c:\Users\Юлия\documents\visual studio 2015\Projects\TestApp\TestLogic\bin\Debug\TestLogic.pdb
+c:\Users\Юлия\documents\visual studio 2015\Projects\TestApp\TestLogic\obj\Debug\TestLogic.csprojResolveAssemblyReference.cache
+c:\Users\Юлия\documents\visual studio 2015\Projects\TestApp\TestLogic\obj\Debug\TestLogic.dll
+c:\Users\Юлия\documents\visual studio 2015\Projects\TestApp\TestLogic\obj\Debug\TestLogic.pdb

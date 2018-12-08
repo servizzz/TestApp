@@ -1,0 +1,4 @@
+c:\Users\Юлия\documents\visual studio 2015\Projects\TestApp\TestLogic\bin\Release\TestLogic.dll
+c:\Users\Юлия\documents\visual studio 2015\Projects\TestApp\TestLogic\bin\Release\TestLogic.pdb
+c:\Users\Юлия\documents\visual studio 2015\Projects\TestApp\TestLogic\obj\Release\TestLogic.dll
+c:\Users\Юлия\documents\visual studio 2015\Projects\TestApp\TestLogic\obj\Release\TestLogic.pdb
